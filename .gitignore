@@ -1,0 +1,16 @@
+# Python and Jupyter
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local settings and credentials
+.vscode/
+.env
+kaggle.json
+
+# Local dataset and generated files
+/data/
+/outputs/
+/checkpoints/
+*.zip
