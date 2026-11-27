@@ -14,3 +14,5 @@ kaggle.json
 /outputs/
 /checkpoints/
 *.zip
+
+notebooks/tn3k_training
